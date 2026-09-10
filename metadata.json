@@ -1,0 +1,6 @@
+{
+  "name": "Grupo Renova",
+  "description": "Especialista em valorização e gerenciamento de resíduos com certificação ISO 14001. Tecnologia para transformar resíduos em energia e novos recursos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
